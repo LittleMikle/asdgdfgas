@@ -1,2 +1,3 @@
 pathDir: "./testing"
+readFile: "./testing/"
 resDir: "./result.txt"
